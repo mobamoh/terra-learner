@@ -1,0 +1,3 @@
+# TerraLearner
+
+**TerraLearner** is a repository dedicated to learning and experimenting with Terraform. This project serves as a hands-on guide to understanding Infrastructure as Code (IaC) concepts, enabling the creation, management, and automation of infrastructure in google cloud platform using Terraform. The goal is to explore Terraform's capabilities, best practices, and real-world applications through practical examples and exercises.
