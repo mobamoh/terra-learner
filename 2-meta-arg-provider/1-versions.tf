@@ -9,13 +9,13 @@ terraform {
 }
 
 provider "google" {
-  project = "leafy-outrider-431811-d4" # this is the project id
+  project = "" # this is the project id
   region  = "us-central1"
   alias   = "iowa"
 }
 
 provider "google" {
-  project = "leafy-outrider-431811-d4"
+  project = ""
   region  = "europe-west10"
   alias   = "berlin"
 }

@@ -1,5 +1,5 @@
 resource "google_compute_network" "mynetwork" {
-  project                 = "leafy-outrider-431811-d4"
+  project                 = ""
   name                    = "mynetwork"
   auto_create_subnetworks = false
 }
